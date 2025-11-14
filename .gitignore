@@ -1,0 +1,13 @@
+target/
+results/
+pgdata/
+grafana/
+influx/
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
+dependency-reduced-pom.xml
+nohup.out
+jmeter.log
